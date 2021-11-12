@@ -102,3 +102,4 @@ declare namespace CodeceptJS {
 declare module "codeceptjs" {
     export = CodeceptJS;
 }
+
